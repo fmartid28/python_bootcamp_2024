@@ -1,5 +1,5 @@
-#!/usr/bin/python3.11
-#version 3.11.3
+#!/user/bin/python3
+##version 3.11.3
 
 #TICTACTOE game play capstone
 
